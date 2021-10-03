@@ -1,0 +1,13 @@
+{
+    "git.ignoreLimitWarning": true,
+    "discord.detailsDebugging": "Debugging ",
+    "discord.detailsEditing": "Editing",
+    "discord.removeDetails": true,
+    "discord.removeLowerDetails": true,
+    "discord.removeRemoteRepository": true,
+    "discord.smallImage": "",
+    "discord.lowerDetailsDebugging": "Debugging",
+    "discord.lowerDetailsEditing": "Workspace",
+    "discord.largeImage": "Editing a file",
+    "discord.enabled": false
+}
